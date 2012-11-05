@@ -1,0 +1,3 @@
+h1. varnish-backend-conf
+
+Generates a Varnish dynamic backend configuration for an Amazon EC2 autoscaling cluster
